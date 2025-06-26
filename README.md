@@ -61,6 +61,7 @@ Hash encryption password
 
 تصميم واجهات frontend 
 
+قلة استخدام Event
 
 تحسينات 
 
